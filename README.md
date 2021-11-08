@@ -16,5 +16,3 @@ When we upload the photo and click "upload", then it will show the image label w
 $ pip install -r requirements.txt
 ```
 
-# How to setup:  
-Please visit https://medium.com/@manbobo2012/build-a-simple-aws-rekognition-application-within-15-mins-874b7d52267d
