@@ -14,5 +14,21 @@ When we upload the photo and click "upload", then it will show the image label w
 
 ```shell
 $ pip install -r requirements.txt
+
+#paste in the terminal 
+$ git clone https://github.com/inyunch/aws-rekognition-workshop
+$ sudo apt-get update 
+$ sudo python3 -m pip install -U pip
+$ sudo python3 -m pip install -U setuptools
+# install environments 
+$ cd aws-rekognition-workshop 
+$ sudo pip3 install -r requirements.txt
+
+#edit config.py 
+
+#execute 
+$ python3 application.py
+![image](https://user-images.githubusercontent.com/38029306/168454685-929dc788-0c64-4d75-beb0-62965ff98198.png)
+
 ```
 
