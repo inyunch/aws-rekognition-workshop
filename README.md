@@ -30,4 +30,3 @@ $ sudo pip3 install -r requirements.txt
 $ python3 application.py
 
 ```
-![image](https://user-images.githubusercontent.com/38029306/168454685-929dc788-0c64-4d75-beb0-62965ff98198.png)
